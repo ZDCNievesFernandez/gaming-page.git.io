@@ -1,1 +1,1 @@
-# gaming-page.git.io
+# gaming-page.github.io
